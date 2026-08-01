@@ -2,10 +2,12 @@
 
 # 👋 Hi, I'm Said Abdessalam
 
-### Automation Engineering Student | Python Developer | Future AI & Robotics Engineer
+### Automation Engineering Student • Python Developer • AI & Robotics Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Automation+Engineering+Student;Python+Developer;Always+Learning+New+Technologies" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Automation+Engineering+Student;Python+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=for-the-badge"/>
 </p>
 
 </div>
@@ -14,70 +16,122 @@
 
 # 🚀 About Me
 
-I'm an Automation Engineering student passionate about building intelligent systems,
-automation, programming, and modern technologies.
+```python
+class SaidAbdessalam:
 
-My goal is to become a highly skilled engineer capable of creating real-world solutions
-through software, AI, robotics, and industrial automation.
+    name = "Said Abdessalam"
+
+    education = "Automation Engineering Student"
+
+    location = "Algeria"
+
+    interests = [
+        "Industrial Automation",
+        "Python",
+        "Artificial Intelligence",
+        "Robotics",
+        "Problem Solving"
+    ]
+
+    currently_learning = [
+        "Advanced Python",
+        "PLC",
+        "Industrial Automation",
+        "Git & GitHub"
+    ]
+
+    goal = "Become a World-Class Automation Engineer"
+```
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+## 🐍 Programming
 
 - Python
 - C
 
-## Automation
+---
 
-- PLC *(Coming Soon)*
-- HMI *(Coming Soon)*
-- SCADA *(Coming Soon)*
+## ⚙️ Automation
 
-## AI & Data
+- PLC *(Learning)*
+- HMI *(Learning)*
+- SCADA *(Learning)*
+- Industrial Control *(Learning)*
 
-- Machine Learning *(Coming Soon)*
-- Deep Learning *(Coming Soon)*
+---
 
-## Tools
+## 🤖 Artificial Intelligence
+
+- Machine Learning *(Planned)*
+- Deep Learning *(Planned)*
+- Computer Vision *(Planned)*
+
+---
+
+## 📊 Microsoft Office
+
+- Microsoft Excel
+- Microsoft Word
+- Microsoft PowerPoint
+
+---
+
+## 🛠 Tools
 
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
+
+---
+
+## 💻 Operating Systems
+
+- Windows
+- Linux *(Learning)*
 
 ---
 
 # 📚 Currently Learning
 
-- Python Advanced
+- Advanced Python
 - Data Structures
-- Automation Engineering
-- Git & GitHub
-- Linux
+- Algorithms
+- Git
+- PLC Programming
 
 ---
 
-# 🎯 Future Roadmap
+# 🎯 2026 Roadmap
 
-- [ ] Master Python
-- [ ] Learn PLC Programming
-- [ ] Learn Industrial Automation
-- [ ] Learn Embedded Systems
-- [ ] Learn Robotics
-- [ ] Learn Artificial Intelligence
-- [ ] Build Real Projects
-- [ ] Contribute to Open Source
+- [x] Python Basics
+- [x] Microsoft Office
+- [ ] Object-Oriented Programming
+- [ ] PLC
+- [ ] HMI
+- [ ] SCADA
+- [ ] Robotics
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Embedded Systems
 
 ---
 
 # 📂 Featured Projects
 
 | Project | Description | Status |
-|----------|-------------|--------|
-| Coming Soon | My first professional project | 🚧 |
+|---------|-------------|--------|
+| Coming Soon | Python Project | 🚧 |
 | Coming Soon | Automation Project | 🚧 |
-| Coming Soon | Python Application | 🚧 |
+| Coming Soon | AI Project | 🚧 |
+
+---
+
+# 🏆 Certifications
+
+Coming Soon...
 
 ---
 
@@ -85,9 +139,9 @@ through software, AI, robotics, and industrial automation.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -97,17 +151,7 @@ through software, AI, robotics, and industrial automation.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -130,14 +174,14 @@ through software, AI, robotics, and industrial automation.
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> "Learning never stops. Every project is another step toward excellence."
+> *"Keep learning. Keep building. Keep improving."*
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 </div>
