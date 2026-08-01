@@ -1,117 +1,79 @@
 <div align="center">
 
-# 👋 Hi, I'm Abde AI
+# 👋 مرحباً، أنا Abde AI
 
-### Automation Engineering Student • Python Developer • AI & Robotics Enthusiast
+### طالب هندسة أتمتة | مطور Python | مهتم بالذكاء الاصطناعي والأتمتة الصناعية
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Automation+Engineering+Student;Python+Developer;Always+Learning+New+Technologies" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Automation+Engineering+Student;Python+Developer;AI+%26+Robotics+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 📍 معلومات عني
 
 ```python
-class SaidAbdessalam:
-
+class AbdeAI:
     name = "Said Abdessalam"
-
-    education = "Automation Engineering Student"
-
-    location = "Algeria"
-
+    location = "الجزائر 🇩🇿"
+    education = "طالب سنة ثانية - هندسة الأتمتة"
+    goal = "تطوير الملف الشخصي للوظيفة المستقبلية والعمل الحر"
+    
     interests = [
-        "Industrial Automation",
-        "Python",
-        "Artificial Intelligence",
-        "Robotics",
-        "Problem Solving"
+        "هندسة الأتمتة الصناعية",
+        "برمجة Python",
+        "الذكاء الاصطناعي",
+        "الروبوتات",
+        "حل المشاكل البرمجية"
     ]
-
+    
     currently_learning = [
-        "Advanced Python",
-        "PLC",
-        "Industrial Automation",
-        "Git & GitHub"
+        "Python المتقدم",
+        "هياكل البيانات والخوارزميات",
+        "PLC والتحكم الصناعي",
+        "Git و GitHub"
     ]
-
-    goal = "Become a World-Class Automation Engineer"
 ```
 
 ---
 
-# 💻 Tech Stack
+## 💻 المهارات والتقنيات
 
-## 🐍 Programming
+### 🐍 لغات البرمجة
+- **Python** - ⭐⭐⭐ (متعلم)
+- **C** - ⭐⭐ (متعلم)
 
-- Python
-- C
+### 📊 أدوات وتقنيات
+- **Microsoft Excel** - ⭐⭐⭐⭐ (متقن)
+- **Microsoft Word** - ⭐⭐⭐ (متقن)
+- **Microsoft PowerPoint** - ⭐⭐⭐ (متقن)
 
----
+### ⚙️ هندسة الأتمتة (قيد التعلم)
+- PLC (Programmable Logic Controller) 🔄
+- HMI (Human Machine Interface) 🔄
+- SCADA (Supervisory Control and Data Acquisition) 🔄
+- التحكم الصناعي 🔄
 
-## ⚙️ Automation
+### 🤖 الذكاء الاصطناعي (مخطط)
+- Machine Learning 📋
+- Deep Learning 📋
+- Computer Vision 📋
 
-- PLC *(Learning)*
-- HMI *(Learning)*
-- SCADA *(Learning)*
-- Industrial Control *(Learning)*
-
----
-
-## 🤖 Artificial Intelligence
-
-- Machine Learning *(Planned)*
-- Deep Learning *(Planned)*
-- Computer Vision *(Planned)*
-
----
-
-## 📊 Microsoft Office
-
-- Microsoft Excel
-- Microsoft Word
-- Microsoft PowerPoint
-
----
-
-## 🛠 Tools
-
-- Git
-- GitHub
+### 🛠 أدوات التطوير
 - Visual Studio Code
+- Git & GitHub
+- Windows و Linux (قيد التعلم)
 
 ---
 
-## 💻 Operating Systems
+## 📚 الخطة التعليمية لـ 2026
 
-- Windows
-- Linux *(Learning)*
-
----
-
-# 📚 Currently Learning
-
-- Advanced Python
-- Data Structures
-- Algorithms
-- Git
-- PLC Programming
-
----
-
-# 🎯 2026 Roadmap
-
-- [x] Python Basics
+- [x] أساسيات Python
 - [x] Microsoft Office
-- [ ] Object-Oriented Programming
-- [ ] PLC
-- [ ] HMI
-- [ ] SCADA
+- [ ] البرمجة كائنية التوجه (OOP)
+- [ ] PLC والتحكم الصناعي
+- [ ] HMI Interface
+- [ ] SCADA Systems
 - [ ] Robotics
 - [ ] Machine Learning
 - [ ] Deep Learning
@@ -119,69 +81,70 @@ class SaidAbdessalam:
 
 ---
 
-# 📂 Featured Projects
+## 📂 المشاريع
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| Coming Soon | Python Project | 🚧 |
-| Coming Soon | Automation Project | 🚧 |
-| Coming Soon | AI Project | 🚧 |
+**🚧 قريباً سأقوم بـ إضافة مشاريعي الشخصية هنا...**
 
----
-
-# 🏆 Certifications
-
-Coming Soon...
+سأقوم بـ مشاركة:
+- 🐍 مشاريع Python
+- ⚙️ مشاريع الأتمتة الصناعية
+- 🤖 مشاريع الذكاء الاصطناعي
 
 ---
 
-# 📊 GitHub Stats
+## 📈 إحصائيات GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saidpython26-commits&show_icons=true&theme=tokyonight&hide_border=true&card_width=300" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidpython26-commits&layout=compact&theme=tokyonight&hide_border=true&card_width=300" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidpython26-commits&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 مخطط المساهمات
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saidpython26-commits&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 تواصل معي
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+📧 **البريد الإلكتروني:** سيتم إضافته قريباً  
+💼 **LinkedIn:** سيتم إضافته قريباً  
 
 ---
 
-# 💬 Quote
+## 💡 نصيحتي لك
 
-> *"Keep learning. Keep building. Keep improving."*
+> *"التعلم المستمر، بناء مشاريع حقيقية، وتحسين نفسك يومياً هو مفتاح النجاح في عالم التكنولوجيا"*
+
+---
+
+## 📌 معلومات إضافية
+
+- 🎓 طالب في مجال هندسة الأتمتة
+- 🌱 حديث في مجال البرمجة والتطوير
+- 🎯 أسعى للعمل في مجال الأتمتة الصناعية والذكاء الاصطناعي
+- 💪 مهتم بـ التعلم المستمر وتطوير المهارات
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ شكراً لزيارتك ملفي الشخصي!
+
+**لا تنسَ أن تضع ⭐ على المشاريع التي تعجبك**
+
+![GitHub followers](https://img.shields.io/github/followers/saidpython26-commits?style=social)
 
 </div>
