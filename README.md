@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Said Abdessalam
+# 👋 Hi, I'm Abde AI
 
 ### Automation Engineering Student • Python Developer • AI & Robotics Enthusiast
 
