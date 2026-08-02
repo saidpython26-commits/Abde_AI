@@ -98,30 +98,11 @@ class SaidAbdessalam:
 
 <div align="center">
 
-### اختر طريقة التواصل المناسبة:
+📧 **البريد الإلكتروني:** قيد الإضافة
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saidpython26-commits)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/213123456789)
+💼 **LinkedIn:** قيد الإضافة
 
----
-
-### 📝 كيفية تحديث الروابط:
-
-```
-1. البريد الإلكتروني (Gmail):
-   استبدل: your-email@gmail.com
-   بـ: بريدك الفعلي
-
-2. LinkedIn:
-   استبدل: your-profile
-   بـ: اسم ملفك على LinkedIn
-
-3. WhatsApp:
-   استبدل: 213123456789
-   بـ: رقم هاتفك (مع رمز الدولة)
-```
+📱 **WhatsApp:** قيد الإضافة
 
 </div>
 
