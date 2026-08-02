@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # تحديث يومي الساعة 12 صباحاً
+  workflow_dispatch:  # تحديث يدوي عند الحاجة
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update GitHub Stats
+        run: |
+          echo "GitHub stats will auto-update based on your activity"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "🔄 تحديث إحصائيات GitHub التلقائي" || true
+          git push
