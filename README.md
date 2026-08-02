@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 مرحباً، أنا Said Abdessalam
+# 👋 مرحباً، أنا Said AI
 
 ### 🚀 طالب هندسة أتمتة | مطور Python | مهتم بالذكاء الاصطناعي والأتمتة الصناعية
 
@@ -13,8 +13,8 @@
 ## 📍 من أنا؟
 
 ```python
-class SaidAbdessalam:
-    name = "Said Abdessalam"
+class SaidAI:
+    name = "Said AI"
     location = "🇩🇿 الجزائر"
     education = "طالب سنة ثانية - هندسة الأتمتة"
     goal = "تطوير الملف الشخصي للوظيفة المستقبلية والعمل الحر"
